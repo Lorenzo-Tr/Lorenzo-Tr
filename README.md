@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lorenzo-Tr
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning in the "LP DEV WEB IUT AIX-MARSEILLE" in France
 - 📫 How to reach me lorenzo.tringali22@gmail.com
 
 <!---
